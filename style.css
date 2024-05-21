@@ -10,7 +10,7 @@ body {
 /* Cabeçalho */
 header {
     background-color: #000000;
-    color: #fff;
+    color: #000000;
     padding: 20px;
     text-align: center;
 }
@@ -25,7 +25,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #7CFC00;
+    color: #2afc00dc;
     text-decoration: none;
 }
 
@@ -36,8 +36,8 @@ section {
 
 /* Rodapé */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #000000;
+    color: #80c511d3;
     text-align: center;
     padding: 10px;
 }
