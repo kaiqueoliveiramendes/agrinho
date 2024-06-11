@@ -43,6 +43,9 @@ justify-content: space-between;
     text-align: justify;
     width: 400px;
 }
+.elementos{
+    display: flex;
+}
 .container{
     border: 2px solid black;
     padding: 20px;
