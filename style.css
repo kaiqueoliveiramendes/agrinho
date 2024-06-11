@@ -48,3 +48,7 @@ justify-content: space-between;
     padding: 20px;
     text-align: center;
 }
+.elementos_container-titulo{
+    width: 300px;
+    height: 300px;
+}
