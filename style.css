@@ -46,6 +46,7 @@ justify-content: space-between;
 }
 .elementos{
     display: flex;
+    flex-wrap: wrap;
 }
 .container{
     width: 33vw;
